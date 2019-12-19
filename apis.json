@@ -1,0 +1,75 @@
+{
+    "name": "Appsee",
+    "description": "Appsee is a mobile app analytics platform that offers you powerful, qualitative analytics tools that enable you to track and optimize the UX in your app.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2002-appsee.jpg",
+    "tags": [
+        "analysis",
+        "api service provider",
+        "applications",
+        "behavior",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/appsee\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Appsee",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2002-appsee.jpg",
+            "humanURL": "http:\/\/www.appsee.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appsee-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appsee-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.appsee.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.appsee.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.appsee.com\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/appsee"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/appsee"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.appsee.com\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "contact@appsee.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Appseecom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.appsee.com\/"
+        }
+    ]
+}
